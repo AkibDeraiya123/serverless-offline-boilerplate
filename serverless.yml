@@ -34,7 +34,7 @@ custom:
       # inMemory: true
       migrate: true
       seed: true
-      # dbPath: /Users/malik/workspace/serverless/my-service/
+      dbPath: ../../../../db/
 
 # you can overwrite defaults here
 #  stage: dev
